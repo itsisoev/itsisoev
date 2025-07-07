@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi there! 👋<br>I’m a passionate full-stack developer from Tajikistan 🇹🇯.<br>I specialize in building modern web applications using NestJS, Angular, and other cutting-edge technologies.<br><br>🚀 Currently, I’m developing Flow Mind — a project management tool inspired by Trello.<br>💡 I enjoy solving complex problems, learning new technologies, and working on open-source projects.<br>🌱 Always looking to grow as a developer and explore new ideas.
 
+# 🐍 Snake eating my contributions
+<img src="https://raw.githubusercontent.com/itsisoev/itsisoev/output/snake.svg" alt="Snake animation" />
+
 # 💻 Tech Stack:
 
 ## Frontend
@@ -17,14 +20,6 @@ Hi there! 👋<br>I’m a passionate full-stack developer from Tajikistan 🇹�
 
 ## DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 🐍 Snake eating my contributions
-<img src="https://raw.githubusercontent.com/itsisoev/itsisoev/output/snake.svg" alt="Snake animation" />
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsisoev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itsisoev&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsisoev&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsisoev&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
