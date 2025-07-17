@@ -1,10 +1,8 @@
 # 💫 About Me:
 Hi there! 👋<br>I’m a passionate full-stack developer from Tajikistan 🇹🇯.<br>
 I specialize in building modern web applications using NestJS, Angular, and other cutting-edge technologies.<br><br>
-
 🚀 Currently, I’m developing two projects:
-- **Focusly** — a minimalistic productivity timer that helps you stay focused while working. [Check it out](https://itsisoev-focusly.netlify.app) ⏱️<br><br>
-
+**Focusly** — a minimalistic productivity timer that helps you stay focused while working. [Check it out](https://itsisoev-focusly.netlify.app) ⏱️<br><br>
 💡 I enjoy solving complex problems, learning new technologies, and working on open-source projects.<br>
 🌱 Always looking to grow as a developer and explore new ideas.
 
