@@ -102,24 +102,12 @@
 
 <br>
 
-# 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=itsisoev&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Как со мной связаться:
-    </b>
-  </samp>
-  <br>
-  <br>
-  <a href="https://github.com/itsisoev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
+  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
+  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
+  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
+  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
 </div>
 
 <br>
