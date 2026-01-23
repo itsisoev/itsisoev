@@ -103,8 +103,7 @@
 <br>
 
 <div align="center">
-  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
-  <img src="dancing-gopher.gif" width="200" align="right" alt="Dancing Gopher">
+  <img src="dancing-gopher.gif" width="350" align="right" alt="Dancing Gopher">
 </div>
 
 <br>
