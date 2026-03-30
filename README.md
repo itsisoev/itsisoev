@@ -66,14 +66,6 @@ Full-Stack разработчик из таджикистана 🇹🇯
 
 ---
 
-#### статистика
-
-![github stats](https://github-readme-stats.vercel.app/api?username=itsisoev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsisoev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
-
----
-
 ![streak](https://github-readme-streak-stats.herokuapp.com?user=itsisoev&theme=dark&hide_border=true&background=0d1117)
 
 ---
