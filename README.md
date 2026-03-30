@@ -1,112 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&animation=fadeIn"/>
+## ITSISOEV
 
-<br>
+Full-Stack разработчик из таджикистана 🇹🇯
 
-<div align="center">
-  
-  <samp>
-      Привет, мир! 👋
-      <br>
-  </samp>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&pause=1000&color=8BE9FD&center=true&width=900&lines=Добро+пожаловать!;Меня+зовут+Далер;Full-Stack+разработчик+из+Таджикистана+🇹🇯;Люблю+код%2C+аниме+и+кофе+☕)](https://git.io/typing-svg)
-</div>
-
-<br>
-
-<div align="center">
-  <img align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsisoev&theme=omni"/>
-</div>
-
-<br>
-
-# 💫 Обо мне
-
-> 💡 **Мой стиль**  
-> Чистый код, продуманная архитектура и немного магии, чтобы проекты выглядели "вау" ✨  
-> 
-> 🌱 **Прокачка**  
-> Постоянно изучаю новые фреймворки и участвую в open-source движениях 🚀  
-> 
-> 😎 **Чем я занимаюсь**  
-> - Превращаю идеи в работающий код  
-> - Делаю сложное простым  
-> - Люблю технологии, а иногда — пересматривать любимые фильмы и аниме 🎬
-
-Если я не кодю на **JS/TS**, **NestJS** или **Angular**, значит, либо сплю, либо пересматриваю:  
-**"Наруто"**, **"Властелин колец"**, **"Хоббит"** или фильм про **Бэтмена** 🦇
+чистый код • архитектура • немного магии ✨
 
 ---
 
-# 💻 Tech Stack
+#### философия
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-</div>
+чистый код, продуманная архитектура и немного магии, чтобы проекты выглядели "вау"
 
-<br>
+постоянно изучаю новые фреймворки и участвую в open-source движениях 🚀
 
-<div align="center">
-  <h3>Backend</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
-</div>
+---
 
-<br>
+#### что я делаю
 
-<div align="center">
-  <h3>Databases</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-</div>
+превращаю идеи в работающий код. делаю сложное простым. люблю технологии и аниме.
 
-<br>
+если я не кодю на **js/ts**, **nestjs** или **angular** — значит сплю или пересматриваю **наруто**, **властелина колец** или **бэтмена** 🦇
 
-<div align="center">
-  <h3>DevOps & Tools</h3>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+---
 
-<br>
+#### фронтенд
 
-# 📊 GitHub Analytics
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsisoev&show_icons=true&theme=omni&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsisoev&layout=compact&theme=omni&hide_border=true" height="165">
-</div>
+#### мобилка и десктоп
 
-<br>
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-# 🐍 Snake eating my contributions
-<img src="https://raw.githubusercontent.com/itsisoev/itsisoev/output/snake.svg" alt="Snake animation" />
+#### бэкенд
 
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![REST%20API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
 
-# ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
+#### база данных
 
-<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-<div align="center">
-  <img src="dancing-gopher.gif" width="350" align="right" alt="Dancing Gopher">
-</div>
+#### инструменты
 
-<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+---
+
+#### статистика
+
+![github stats](https://github-readme-stats.vercel.app/api?username=itsisoev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsisoev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9)
+
+---
+
+![streak](https://github-readme-streak-stats.herokuapp.com?user=itsisoev&theme=dark&hide_border=true&background=0d1117)
+
+---
+
+**сделано с ❤️ на javascript**
