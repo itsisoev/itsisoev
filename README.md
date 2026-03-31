@@ -12,7 +12,10 @@ Constantly learning new frameworks and participating in open-source movements �
 ---
 
 Turning ideas into working code. Making the complex simple. Love technology and anime.
-If I'm not coding in JS/TS, NestJS, or Angular — I'm either sleeping or rewatching Naruto, The Lord of the Rings, or Batman 🦇
+
+Code is life. Everything else is a beautiful distraction 🎨
+
+Anime, LOTR, Batman — fuel for the creative mind 🧠
 
 ---
 
@@ -39,10 +42,10 @@ If I'm not coding in JS/TS, NestJS, or Angular — I'm either sleeping or rewatc
 
 **Backend**
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
